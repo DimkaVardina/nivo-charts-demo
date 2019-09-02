@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Nivo
+
+It's not needed all components to be installed within the project. We can use the nessecary ones only.
+
 ## Available Scripts
 
 In the project directory, you can run:
